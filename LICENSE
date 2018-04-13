@@ -1,20 +1,3 @@
-# smef's Indigo Remastered
-
-Notice: You must include protobuf yourself!
-
-Watch this; https://youtu.be/4VumbtVsv3c to learn how to include protobuf
-
-Recently people have been reporting "compiler is out of heap space" error; if you receive this read this. https://msdn.microsoft.com/en-us/library/yz7kx3y2.aspx - Possibly fixed now
-
-4.2
-+ Menu (changed)
-+ Aimbot (improved)
-+ ColorPicker (added new one)
-+ Inventory Changer (made by Haterul on forum) (also made a combo with all weapons id and rarity)
-+ Profile Changer (made by Haterul on forum)
-+ Gloves (new ones)
-
-smef's Indigo is published under the MIT License;
 MIT License
 
 Copyright (c) 2018 smefcc
@@ -36,5 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-https://github.com/smefcc/smef-s-Indigo-Remasterd/blob/master/LICENSE
